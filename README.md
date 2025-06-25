@@ -10,7 +10,7 @@ Quick Notes on How I Built It
 
     Simple Buying: When a user "buys" a pet, the app just finds the first available and affordable pet without an owner.
 
-How to Get It Running (Super Easy!)
+How to Get It Running 
 
 What You'll Need:
 
